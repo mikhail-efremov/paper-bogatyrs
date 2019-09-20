@@ -36,4 +36,4 @@ sysinfo.txt
 *.unitypackage
 Client/Assets/Plugins/Editor/JetBrains
 Client/Assets/Plugins/Editor/JetBrains.meta
-Client/.idea
+Client/.idea*
