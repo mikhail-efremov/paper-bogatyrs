@@ -1,6 +1,6 @@
 using Common;
 
-namespace Characters.Common
+namespace Model.Characters.Common
 {
   public class Damage
   {

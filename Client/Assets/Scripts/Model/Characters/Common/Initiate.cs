@@ -1,13 +1,12 @@
-namespace Characters.Common
+namespace Model.Characters.Common
 {
   public class Initiate
   {
-    private int _value;
-    public int Value => _value;
+    public int Value { get; }
 
     public Initiate(int value)
     {
-      _value = value;
+      Value = value;
     }
 
     public override string ToString()

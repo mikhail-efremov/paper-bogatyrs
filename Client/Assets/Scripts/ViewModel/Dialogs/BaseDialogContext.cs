@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Ui.Dialogs
+namespace ViewModel.Dialogs
 {
   public abstract class BaseDialogContext<T> : MonoBehaviour, IDialogContext<T> where T : IDialogState
   {

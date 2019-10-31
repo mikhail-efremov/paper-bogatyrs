@@ -1,4 +1,4 @@
-namespace Ui.Dialogs
+namespace ViewModel.Dialogs
 {
   public enum DialogType
   {
